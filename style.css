@@ -1,0 +1,30 @@
+/* styles.css */
+@import url( 
+"https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+  body {
+    background-color: black;
+    overflow: hidden; /* Prevent scrolling */
+    color:#fff;
+  }
+
+  .sparkle {
+    position: absolute;
+    width: 5px; /* Increased size */
+    height: 5px; /* Increased size */
+    border-radius: 50%;
+    animation: twinkle 1s infinite ease-in-out;
+  }
+
+  @keyframes twinkle {
+    0%, 100% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+  }
+  button{
+    color:#fff;
+   background-image:url("https://scitechdaily.com/images/Massive-Galaxy.gif");
+    height:50px;
+  }
