@@ -3,6 +3,12 @@ A web application that generates a randomized sparkle ✨ background with colorf
 <br><p></p>
 <img src="https://github.com/Akshayadeveloper/Sparkle-Scientist/blob/main/IMG_20240117_145244.jpg">
 <img src="https://github.com/Akshayadeveloper/Sparkle-Scientist/blob/main/IMG_20240117_145254.jpg">
+<video width="320" height="240" controls muted>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
 <b>Features</b>
 <ol><li>Generate Sparkles! button: Clicking this button will create a new set of sparkles with random colors, sizes, and positions.</li>
 <li>Colorful Sparkles: The sparkles are generated with random colors selected from an array of colors, creating a vibrant and colorful effect.</li>
